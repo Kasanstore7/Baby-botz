@@ -1,25 +1,25 @@
-# [Raxcel-bot MD](https://wa.me/6282140373458)
+# [Baby Botz MD](https://wa.me/6283192405363)
 
 ---
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=Kangsad01/bot-md"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Kangsad01/bot-md"></a>
-<a href="https://github.com/Kangsad01/bot-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kangsad01/bot-md?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kangsad01/bot-md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kangsad01/bot-md?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=Kasanstore7/Baby-botz"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Kangsad01/bot-md"></a>
+<a href="https://github.com/Kasanstore7/Baby-botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kangsad01/bot-md?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kasanstore7/Baby-botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kasanstore7/Baby-botz?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Kasanstore7/Baby-botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kangsad01/bot-md?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kangsad01/bot-md?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kangsad01/bot-md?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/Kangsad01/bot-md/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Kangsad01/bot-md?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kangsad01/bot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Kangsad01/bot-md/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kangsad01/bot-md?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Kasanstore7/Baby-botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kasanstore7/Baby-botz?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Kasanstore7/Baby-botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kasanstore7/Baby-botz?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fm6gRtvuCDN9abXVlfekAK) 
+[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz) 
 **NO BOT**
 
 
 ## UNTUK PENGGUNA HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/bot-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kasanstore7/Baby-botz)
 
 ### Instal Buildpack
 * heroku/nodejs
@@ -28,11 +28,11 @@
 
 ## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2Fbot-md)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKasanstore7%2FBaby-botz)
 
 ## UNTUK PENGGUNA REPLIT
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kangsad01/bot-md)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github.com/Kasanstore7/Baby-botz
 ```cmd
 Buka Console
 ------------
@@ -58,7 +58,7 @@ Choose your repo
 
 ## PANEL/RDP/VPS
 
-* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
+* Khasan dev [`Click Here`](https://wa.me/6285641142178)
 
 
 ---------
@@ -72,8 +72,8 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Kangsad01/bot-md
-cd bot-md
+git clone https://github.com/Kasanstore7/Baby-botz
+cd Baby-botz
 npm i
 node .
 ```
@@ -81,7 +81,7 @@ node .
 ## UNTUK PENGGUNA TERMUX
 
 * Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
-* Download node_modules [`Klik Disini`](https://www.mediafire.com/file/peyj19jiz4hq5qt/node_modules.zip/file)
+* Download node_modules [`Klik Disini`](INSTALL SENDIRI)
 
 ```
 $ pkg update && upgrade -y
@@ -89,8 +89,8 @@ $ apt update && upgrade -y
 $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
-$ git clone https://github.com/Kangsad01/bot-md
-$ cd bot-md
+$ git clone https://github.com/Kasanstore7/Baby-botz
+$ cd Baby-botz
 $ npm i
 $ node .
 ```
@@ -181,14 +181,11 @@ conn.logger.level = 'debug'
 
 
 ##### Special Thanks to
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![Wh mods](https://github.com/WH-MODS-BOT.png?size=100)](https://github.com/WH-MODS-BOT)
+[![Khasanudin47](https://github.com/Kasanstore7.png?size=100)](https://github.com/Kasanstore7)
 
 ###### Contributor
-[![Fokus ID](https://github.com/fokusdotid.png?size=100)](https://github.com/fokusdotid)
-[![Aniq](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
-[![Rasel Comel](https://github.com/raselcomel.png?size=100)](https://github.com/raselcomel)
-[![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Amelia Lisa](https://github.com/Ameliascrf.png?size=100)](https://github.com/Ameliascrf)
-[![𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01)
-[![bot xtrehse](https://github.com/xtreshebot.png?size=100)](https://github.com/xtreshebot)
+[![Khasan dev.01](https://github.com/Kasanstore7.png?size=100)](https://github.com/Kasanstore7)
+[![Marcel](https://github.com/Mshunone.png?size=100)](https://github.com/Mshunone)
+[![Izanami](https://github.com/imYanXiao.png?size=100)](https://github.com/imYanXiao)
+[![tio](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
